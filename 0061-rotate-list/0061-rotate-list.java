@@ -10,23 +10,22 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if(head==null || head.next==null || k==0) return head;
-
-        int length =1;
+        int len =1;
         ListNode tail = head;
-        while(tail.next != null){
-            length++;
+        while (tail.next != null) {
             tail = tail.next;
-        }        
-        k = k%length;
+            len++;
+        }
+
+        k = k % len;
         if(k==0) return head;
         tail.next = head;
-        ListNode newlastnode = findnthNode(head, length-k);
+        ListNode newlastnode = findnthnode(head, len-k);
         head = newlastnode.next;
         newlastnode.next = null;
         return head;
     }
-    private ListNode findnthNode(ListNode node, int n){
+    private ListNode findnthnode(ListNode node, int n){
         while(n>1){
             node = node.next;
             n--;
