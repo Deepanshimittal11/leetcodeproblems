@@ -1,4 +1,5 @@
 class Solution {
+    // public void rotate(int[] nums, int k) {
     static void reverse(int nums[], int i, int j){
         while(i<j){
             int temp = nums[i];
@@ -15,8 +16,5 @@ class Solution {
         reverse(nums, 0, k-1);
         reverse(nums,k, n-1);
 
-        // for(int i=0;i<n;i++){
-        //     System.out.println()
-        // }
     }
 }
