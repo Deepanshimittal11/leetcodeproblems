@@ -1,29 +1,20 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int cnt =0;
-            for(int num : nums){
-                if(even(num)){
-                    cnt++;
-                }                
-            }
-        return cnt;
-    }
-    int digits(int num){
-            if(num < 0){
-                num = num*-1;
-            }
+        int n = nums.length;
+        int maxcnt = 0;
+
+        for(int i=0;i<n;i++){
             int cnt = 0;
+            int num = nums[i];
 
-            while(num > 0){
+            while(num!= 0){
                 cnt++;
-                num = num/10;
+                num /= 10;
+            }        
+            if(cnt%2==0){
+                maxcnt++;
             }
-            return cnt;
-        }
-
-    boolean even(int num){
-            int noOfDigits = digits(num);
-            return noOfDigits % 2 == 0;
-        }
-
+        }        
+        return maxcnt;
+    }
 }
