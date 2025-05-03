@@ -9,9 +9,7 @@ class Solution {
                 coins -= costs[i];
                 cnt++;
             }
-            else{
-                return cnt;
-            }
+            
         }
         return cnt;
     }
