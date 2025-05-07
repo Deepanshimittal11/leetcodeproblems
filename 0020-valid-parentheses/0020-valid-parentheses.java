@@ -1,24 +1,20 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-
-        for(int i=0;i<s.length();i++){
-            char ch = s.charAt(i);
-
-            if(ch== '('|| ch== '{'|| ch=='['){
-                stack.add(ch);
+        Stack<Character> st = new Stack<>();
+        int n = s.length();
+        for(int i=0;i<n;i++){
+            if(s.charAt(i)=='(' || s.charAt(i)=='{' || s.charAt(i)=='['){
+                st.push(s.charAt(i));
             }
-
-            else if(ch==')' || ch=='}' || ch==']'){
-                if(stack.isEmpty() || !isMatchingPair(stack.pop(), ch)){
+            else{
+                if(st.isEmpty()) return false;
+                char top = st.pop();
+                if(s.charAt(i)==')' && top!='(' ||s.charAt(i)==']' && top!='[' ||s.charAt(i)=='}' && top!='{'){
                     return false;
                 }
+                
             }
         }
-        return stack.isEmpty();
-    }
-
-    private boolean isMatchingPair(char open, char close){
-        return(open=='('&& close==')' || open=='{'&& close=='}' || open=='['&& close==']');
+        return st.isEmpty();
     }
 }
