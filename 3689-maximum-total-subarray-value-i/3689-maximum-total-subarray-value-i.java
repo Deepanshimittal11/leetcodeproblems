@@ -1,14 +1,13 @@
 class Solution {
     public long maxTotalValue(int[] nums, int k) {
-
-        int n= nums.length;
-        int maxi = nums[0];
-        int mini = nums[0];
+        
+        int maxi = Integer.MIN_VALUE;
+        int mini = Integer.MAX_VALUE;
         long sum = 0;
 
-        for(int i=1;i<n;i++){
-            if(nums[i]>maxi) maxi = nums[i];
-            if(nums[i]<mini) mini = nums[i];
+        for(int num : nums){
+            if(num>maxi) maxi = num;
+            if(num<mini) mini = num;
         }
 
         while(k-- > 0){
