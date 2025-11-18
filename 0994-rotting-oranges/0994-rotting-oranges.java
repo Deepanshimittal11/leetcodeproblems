@@ -1,47 +1,48 @@
+class Node{
+    int row, col, time;
+    Node(int i, int j, int t){
+        row = i;
+        col = j;
+        time = t;
+    }
+}
 class Solution {
+    public boolean isValid(int nr, int nc, int rows, int cols){
+        return (nr>=0 && nc>=0 && nr<rows && nc<cols);
+    }
     public int orangesRotting(int[][] grid) {
-        int row = grid.length;
-        int col = grid[0].length;
+        int n = grid.length;
+        int m = grid[0].length;
 
-        Queue<int[]> q = new LinkedList<>();
-        int fresh = 0; // fresh oranges (1)
-        int min = -1;
-
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
-                if(grid[i][j] == 2){
-                    q.offer(new int[]{i,j});
+        Queue<Node> q = new ArrayDeque<>();
+        int fresh = 0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]==2){
+                    q.offer(new Node(i,j,0));
                 }
-                else if(grid[i][j] == 1){
+                else if(grid[i][j]==1){
                     fresh++;
                 }
             }
         }
+        if(fresh==0) return 0;
 
-        if(fresh == 0) return 0; //agr fresh oranges nhi h to return 0;
-
-        int[][] dir = {{0,1},{1,0},{-1,0},{0,-1}};  //four directions around rotten oranges.
-
+        int mintime = 0;
+        int[][] dir = {{-1,0},{1,0},{0,1},{0,-1}};
         while(!q.isEmpty()){
-            int size = q.size();
-            min++;
-
-            for(int i=0;i<size;i++){
-                int[] curr = q.poll();
-                int r = curr[0], c = curr[1];
-
-                for(int[] d : dir){
-                    int nr = r + d[0];
-                    int nc = c + d[1];
-
-                    if(nr<0 || nc<0 || nr>=row || nc>=col || grid[nr][nc]!=1) continue; //if nr or nc has gone out of boundary.
-
+            Node curr = q.poll();
+            for(int[] d : dir){
+                int nr = curr.row + d[0];
+                int nc = curr.col + d[1];
+                if(isValid(nr,nc,n,m) && grid[nr][nc]==1){
+                    q.offer(new Node(nr, nc, curr.time+1));
                     grid[nr][nc] = 2;
                     fresh--;
-                    q.offer(new int[]{nr,nc});
+                    mintime = curr.time + 1;
                 }
             }
         }
-        return (fresh==0) ? min : -1; //if fresh oranges are still left then return -1.
+        return (fresh==0) ? mintime : -1;
     }
 }
