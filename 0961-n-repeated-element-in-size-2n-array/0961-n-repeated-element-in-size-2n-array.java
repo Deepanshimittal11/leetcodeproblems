@@ -1,9 +1,9 @@
 class Solution {
     public int repeatedNTimes(int[] nums) {
-        Set<Integer> seen = new HashSet<>();
+        HashSet<Integer> set = new HashSet<>();
         for(int num : nums){
-            if(seen.contains(num)) return num;
-            seen.add(num);
+            if(set.contains(num)) return num;
+            set.add(num);
         }
         return -1;
     }
