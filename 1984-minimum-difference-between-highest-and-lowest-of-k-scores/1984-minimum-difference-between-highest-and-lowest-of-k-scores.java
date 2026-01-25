@@ -1,14 +1,15 @@
 class Solution {
     public int minimumDifference(int[] nums, int k) {
+        int n = nums.length;
         Arrays.sort(nums);
-        int i = 0;
-        int n = k-1;
-        int diff = nums[n]-nums[i];
-        while(n<nums.length){
-            int temp = nums[n]-nums[i];
-            diff = Math.min(temp,diff);
+        int i=0;
+        int K = k-1;
+        int diff = nums[K] - nums[i];
+        while(K < n){
+            int temp = nums[K] - nums[i];
+            diff = Math.min(diff, temp);
             i++;
-            n++;
+            K++;
         }
         return diff;
     }
