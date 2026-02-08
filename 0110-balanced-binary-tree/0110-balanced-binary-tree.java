@@ -17,13 +17,13 @@ class Solution {
     public boolean isBalanced(TreeNode root) {
         return helper(root) != -1;
     }
-    int helper(TreeNode root){
-        if(root==null) return 0;
-        int lh = helper(root.left);
-        if(lh == -1)  return -1;
-        int rh = helper(root.right);
-        if(rh == -1) return -1;
-        if(Math.abs(lh-rh) > 1) return -1;
-        return Math.max(lh,rh)+1;
+    public int helper(TreeNode node){
+        if(node==null) return 0;
+        int left = helper(node.left);
+        if(left == -1) return -1;
+        int right = helper(node.right);
+        if(right == -1) return -1;
+        if(Math.abs(left - right) > 1) return -1;
+        return 1 + Math.max(left, right); 
     }
 }
