@@ -29,4 +29,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1446-consecutive-characters](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1446-consecutive-characters/) | Easy |
 <!---LeetCode Topics End-->
