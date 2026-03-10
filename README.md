@@ -32,10 +32,15 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0925-long-pressed-name](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0925-long-pressed-name/) | Easy |
 | [1446-consecutive-characters](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1446-consecutive-characters/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0925-long-pressed-name](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0925-long-pressed-name/) | Easy |
 <!---LeetCode Topics End-->
