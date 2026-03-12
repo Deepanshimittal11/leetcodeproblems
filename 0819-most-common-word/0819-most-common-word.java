@@ -7,7 +7,7 @@ class Solution {
             set.add(st);
         }
 
-        paragraph = paragraph.toLowerCase().replaceAll("[^a-z ]", " ");
+        paragraph = paragraph.toLowerCase().replaceAll("[^a-z ]", " "); //a-z ke alawa sb replace ho jaege with space.
         for(String str : paragraph.split("\\s+")){
             if(str.length()==0 || set.contains(str)){
                 continue;
