@@ -73,13 +73,20 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0112-path-sum/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0112-path-sum/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0112-path-sum/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
