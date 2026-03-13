@@ -1,26 +1,30 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        int n = nums.length;
-        List<Integer> ds = new ArrayList<>();
         List<List<Integer>> ans = new ArrayList<>();
-        boolean[] freq = new boolean[n];
-        permutation(nums, freq, ds, ans);
+        List<Integer> list = new ArrayList<>();
+        boolean[] used = new boolean[nums.length];
+
+        helper(nums, list, ans, used);
         return ans;
     }
-    public void permutation(int[] nums, boolean[] freq, List<Integer> ds, List<List<Integer>> ans){
-        if(ds.size() == nums.length){
-            ans.add(new ArrayList<>(ds));
-            return;
+    public void helper(int[] nums, List<Integer> list, List<List<Integer>> ans, boolean[] used){
+        int n = nums.length;
+
+        if(list.size()==n){
+            ans.add(new ArrayList<>(list));
         }
 
-        for(int i=0;i<nums.length;i++){
-            if(!freq[i]){
-                freq[i] = true;
-                ds.add(nums[i]);
-                permutation(nums, freq, ds, ans);
-                freq[i] = false;
-                ds.remove(ds.size()-1);
-            }
+        for(int i=0;i<n;i++){
+            if(used[i]) continue;
+
+            list.add(nums[i]);
+            used[i] = true;
+
+            helper(nums, list, ans, used);
+
+            list.remove(list.size()-1);
+            used[i] = false;
         }
+        
     }
 }
