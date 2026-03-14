@@ -8,6 +8,7 @@
 | [0046-permutations](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0078-subsets/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0819-most-common-word](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0819-most-common-word/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -98,4 +99,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0112-path-sum/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0503-next-greater-element-ii/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
