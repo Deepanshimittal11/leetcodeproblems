@@ -80,6 +80,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@
 | [0113-path-sum-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0113-path-sum-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0437-path-sum-iii/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@
 | [0113-path-sum-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0113-path-sum-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0437-path-sum-iii/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +113,7 @@
 | [0113-path-sum-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0113-path-sum-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0437-path-sum-iii/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
