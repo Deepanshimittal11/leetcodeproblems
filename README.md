@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0078-subsets/) | Medium |
@@ -32,6 +33,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
