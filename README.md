@@ -21,6 +21,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@
 | [0409-longest-palindrome](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0819-most-common-word](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0819-most-common-word/) | Easy |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0239-sliding-window-maximum/) | Hard |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +161,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
