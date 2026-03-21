@@ -2,8 +2,8 @@ class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
         HashMap<Integer, Integer> mpp = new HashMap<>();
         int l=0;
-        int sum = 0;
-        int maxsum = 0;
+        long sum = 0;
+        long maxsum = 0;
 
         for(int i=0;i<nums.length;i++){
             sum += nums[i];
