@@ -21,6 +21,7 @@
 | [0819-most-common-word](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0819-most-common-word/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1306-jump-game-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1306-jump-game-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
@@ -122,6 +123,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0437-path-sum-iii/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1306-jump-game-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1306-jump-game-iii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0112-path-sum/) | Easy |
+| [1306-jump-game-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1306-jump-game-iii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
