@@ -14,6 +14,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0704-binary-search](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0735-asteroid-collision/) | Medium |
@@ -95,6 +96,7 @@
 | [0045-jump-game-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0055-jump-game/) | Medium |
 | [0072-edit-distance](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0072-edit-distance/) | Medium |
+| [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Greedy
@@ -154,6 +156,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0394-decode-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0394-decode-string/) | Medium |
+| [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,4 +200,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0002-add-two-numbers/) | Medium |
+| [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
