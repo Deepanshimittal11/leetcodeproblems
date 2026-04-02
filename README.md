@@ -162,6 +162,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
@@ -203,6 +204,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
