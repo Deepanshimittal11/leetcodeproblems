@@ -13,25 +13,21 @@ class Solution {
         ListNode t1 = list1;
         ListNode t2 = list2;
 
-        ListNode ds = new ListNode(0);
-        ListNode current = ds;
+        ListNode dummy = new ListNode(-1);
+        ListNode curr = dummy;
+        
         while(t1!=null && t2!=null){
             if(t1.val <= t2.val){
-                current.next = t1;
+                curr.next = new ListNode(t1.val);
                 t1 = t1.next;
-            }
-            else{
-                current.next = t2;
+            }else{
+                curr.next = new ListNode(t2.val);
                 t2 = t2.next;
             }
-            current = current.next;
+            curr = curr.next;
         }
-        if(t1!=null){
-            current.next = t1;
-        }
-        else if(t2!=null){
-            current.next=t2;
-        }
-        return ds.next;
+        if(t1!=null) curr.next = t1;
+        if(t2!=null) curr.next = t2;
+        return dummy.next;
     }
 }
