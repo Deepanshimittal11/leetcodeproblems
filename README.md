@@ -72,6 +72,7 @@
 | [0394-decode-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0796-rotate-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0819-most-common-word/) | Easy |
 | [0925-long-pressed-name](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0925-long-pressed-name/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -238,4 +239,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
