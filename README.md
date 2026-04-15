@@ -69,6 +69,7 @@
 | [0072-edit-distance](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0072-edit-distance/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -100,6 +101,7 @@
 | [0001-two-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0819-most-common-word](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0819-most-common-word/) | Easy |
@@ -198,6 +200,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0242-valid-anagram/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Interactive
