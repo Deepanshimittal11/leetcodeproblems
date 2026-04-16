@@ -82,6 +82,7 @@
 | [1446-consecutive-characters](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2278-percentage-of-letter-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
