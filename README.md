@@ -66,6 +66,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0072-edit-distance](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0072-edit-distance/) | Medium |
@@ -96,6 +97,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -118,6 +120,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0045-jump-game-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0055-jump-game/) | Medium |
 | [0072-edit-distance](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0072-edit-distance/) | Medium |
