@@ -105,6 +105,7 @@
 | [0234-palindrome-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0925-long-pressed-name](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0925-long-pressed-name/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +251,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
