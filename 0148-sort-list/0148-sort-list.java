@@ -10,46 +10,47 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        if(head==null || head.next==null){
-            return head;
-        }
-        ListNode middle = findemiddle(head);
-        ListNode lefthead = head;
-        ListNode righthead = middle.next;
+        if(head==null || head.next==null) return head;
+
+        ListNode middle = findmiddle(head);
+        ListNode leftHead = head;
+        ListNode rightHead = middle.next;
         middle.next = null;
-        lefthead = sortList(lefthead);
-        righthead = sortList(righthead);
-        return merge2lists(lefthead,righthead);
-    }
-    public ListNode merge2lists(ListNode ls1, ListNode ls2){
-       
-        ListNode dNode = new ListNode(-1);
-        ListNode temp = dNode;
 
-        while(ls1!=null && ls2!=null){
-            if(ls1.val < ls2.val){
-                temp.next = ls1;
-                temp = ls1;
-                ls1 = ls1.next;
-            }
-            else{
-                temp.next = ls2;
-                temp = ls2;
-                ls2 = ls2.next;
-            }
-        }
-        if(ls1 != null) temp.next = ls1;
-        else temp.next = ls2;
+        leftHead = sortList(leftHead);
+        rightHead = sortList(rightHead);
 
-        return dNode.next;
+        ListNode result = mergeLists(leftHead, rightHead);
+        return result;
     }
-    public ListNode findemiddle(ListNode head){
+    public ListNode findmiddle(ListNode head){
         ListNode slow = head;
-        ListNode fast = head.next;
-        while(fast!=null && fast.next!=null){
+        ListNode fast = head;
+        while(fast.next!=null && fast.next.next!=null){
             slow = slow.next;
             fast = fast.next.next;
         }
         return slow;
+    }
+    public ListNode mergeLists(ListNode lh, ListNode rh){
+        ListNode l1 = lh;
+        ListNode r1 = rh;
+
+        ListNode dummy = new ListNode(-1);
+        ListNode curr = dummy;
+        while(l1!=null && r1!=null){
+            if(l1.val < r1.val){
+                curr.next = l1;
+                l1 = l1.next;
+            }
+            else{
+                curr.next = r1;
+                r1 = r1.next;
+            }
+            curr = curr.next;
+        }
+        if(l1!=null) curr.next = l1;
+        if(r1!=null) curr.next = r1;
+        return dummy.next;
     }
 }
