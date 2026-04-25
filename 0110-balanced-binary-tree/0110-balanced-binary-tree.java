@@ -13,17 +13,24 @@
  *     }
  * }
  */
+
+//math.abs(left-right)>1 //not balanced
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        return helper(root) != -1;
+        if(root==null) return true;
+
+        int lefth = height(root.left);
+        int righth = height(root.right);
+        if(Math.abs(lefth - righth) > 1) return false;
+
+        return isBalanced(root.left) && isBalanced(root.right);
     }
-    public int helper(TreeNode node){
-        if(node==null) return 0;
-        int left = helper(node.left);
-        if(left == -1) return -1;
-        int right = helper(node.right);
-        if(right == -1) return -1;
-        if(Math.abs(left - right) > 1) return -1;
-        return 1 + Math.max(left, right); 
+    public int height(TreeNode root){
+        if(root==null) return 0;
+
+        int left = height(root.left);
+        int right = height(root.right);
+
+        return 1 + Math.max(left, right);
     }
 }
