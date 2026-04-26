@@ -163,6 +163,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -175,6 +176,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1306-jump-game-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1306-jump-game-iii/) | Medium |
 ## Binary Tree
@@ -189,6 +191,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
