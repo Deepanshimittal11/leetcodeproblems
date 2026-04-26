@@ -21,10 +21,12 @@ class Solution {
     }
     public int height(TreeNode node){
         if(node == null) return 0;
-        int left_height = height(node.left);
-        int right_height = height(node.right);
-        int dia = left_height + right_height + 1;
+        int left_node = height(node.left);
+        int right_node = height(node.right);
+
+        int dia = left_node + right_node + 1;
         diameter = Math.max(diameter, dia);
-        return Math.max(left_height, right_height)+1;
+
+        return Math.max(left_node, right_node) + 1;
     }
 }
