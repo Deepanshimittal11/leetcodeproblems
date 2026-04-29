@@ -134,6 +134,7 @@
 | [0045-jump-game-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0055-jump-game/) | Medium |
 | [0072-edit-distance](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0072-edit-distance/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0877-stone-game/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
@@ -164,6 +165,7 @@
 | [0110-balanced-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -181,6 +183,7 @@
 | [0110-balanced-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -201,6 +204,7 @@
 | [0110-balanced-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
