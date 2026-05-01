@@ -14,6 +14,7 @@
 | [0078-subsets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0078-subsets/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0396-rotate-function](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -135,6 +136,7 @@
 | [0055-jump-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0055-jump-game/) | Medium |
 | [0072-edit-distance](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0072-edit-distance/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0396-rotate-function](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0877-stone-game/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
@@ -316,6 +318,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0013-roman-to-integer/) | Easy |
+| [0396-rotate-function](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1140-stone-game-ii/) | Medium |
