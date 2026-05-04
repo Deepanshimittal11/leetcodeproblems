@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0078-subsets/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -319,6 +320,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0788-rotated-digits/) | Medium |
@@ -351,4 +353,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
