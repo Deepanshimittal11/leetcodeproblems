@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0055-jump-game/) | Medium |
+| [0075-sort-colors](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0078-subsets/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -102,6 +103,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0148-sort-list/) | Medium |
@@ -277,6 +279,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0242-valid-anagram/) | Easy |
