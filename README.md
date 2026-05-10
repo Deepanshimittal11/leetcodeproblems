@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0078-subsets/) | Medium |
@@ -136,6 +137,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0045-jump-game-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0055-jump-game/) | Medium |
 | [0072-edit-distance](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0072-edit-distance/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -294,6 +296,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Quickselect
