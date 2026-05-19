@@ -1,24 +1,32 @@
 class Solution {
-    List<List<Integer>> ans;
-
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        List<List<Integer>> ans = new ArrayList<>();
         Arrays.sort(candidates);
-        ans = new ArrayList<>();;
-        helper(candidates, target, 0, new ArrayList<>());
-        return ans;    
+        helper(candidates, target, ans, 0, 0, new ArrayList<>());
+        return ans;
     }
-
-    public void helper(int[] candidates, int target, int ind, List<Integer> ds){
-        if(target == 0){
-            ans.add(new ArrayList<>(ds));
+    public void helper(int[] candidates, int target, List<List<Integer>> ans, int sum, int ind, List<Integer> list){
+        if(sum == target){
+            ans.add(new ArrayList<>(list));
             return;
         }
-        for(int i=ind; i<candidates.length;i++){
-            if(i>ind && candidates[i]==candidates[i-1]) continue;
-            if(candidates[i] > target) break;
-            ds.add(candidates[i]);
-            helper(candidates, target-candidates[i], i+1, ds);
-            ds.remove(ds.size()-1);
+        if(sum > target || ind >= candidates.length){
+            return;
         }
+
+        //pick
+        list.add(candidates[ind]);
+        helper(candidates, target, ans, sum + candidates[ind], ind+1, list);
+
+        //backtrack
+        list.remove(list.size()-1);
+
+        //skip duplicates
+        while(ind<candidates.length-1 && candidates[ind]==candidates[ind+1]){
+            ind++;
+        }
+
+        //not pick
+        helper(candidates, target, ans, sum, ind+1, list);
     }
 }
