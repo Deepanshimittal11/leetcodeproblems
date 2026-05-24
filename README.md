@@ -202,6 +202,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0547-number-of-provinces/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1306-jump-game-iii/) | Medium |
@@ -236,6 +237,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0547-number-of-provinces](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0547-number-of-provinces/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1306-jump-game-iii/) | Medium |
 ## Stack
@@ -367,4 +369,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0048-rotate-image/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
