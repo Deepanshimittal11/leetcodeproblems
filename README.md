@@ -23,6 +23,7 @@
 | [0485-max-consecutive-ones](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0542-01-matrix](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0542-01-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0735-asteroid-collision/) | Medium |
@@ -149,6 +150,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0396-rotate-function](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
+| [0542-01-matrix](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0542-01-matrix/) | Medium |
 | [0788-rotated-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0877-stone-game/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
@@ -240,6 +242,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0542-01-matrix](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -374,6 +377,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0048-rotate-image/) | Medium |
+| [0542-01-matrix](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
