@@ -13,26 +13,21 @@ class Solution {
         int m = mat[0].length;
 
         Queue<Node> q = new LinkedList<>();
-        boolean[][] vis = new boolean[n][m];
-        int cnt1 = 0;
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(mat[i][j]==0) q.offer(new Node(i, j, 0));
-                else cnt1++;
+                else mat[i][j] = -1; //univisited.
             }
         }
-
-        if(cnt1 == 0) return mat;
 
         while(!q.isEmpty()){
             Node curr = q.poll();
             for(int[] d : dir){
                 int nr = d[0] + curr.row;
                 int nc = d[1] + curr.col;
-                if(isValid(nr, nc, n, m) && mat[nr][nc]==1 && !vis[nr][nc]){
+                if(isValid(nr, nc, n, m) && mat[nr][nc] == -1){
                     q.offer(new Node(nr, nc, curr.time+1));
-                    vis[nr][nc] = true;
                     mat[nr][nc] = curr.time + 1;
                 }
             }
@@ -40,7 +35,6 @@ class Solution {
         return mat;
     }
     public boolean isValid(int nr, int nc, int n, int m){
-        if(nr<n && nr>=0 && nc<m && nc>=0) return true;
-        return false;
+        return nr<n && nr>=0 && nc<m && nc>=0;
     }
 }
