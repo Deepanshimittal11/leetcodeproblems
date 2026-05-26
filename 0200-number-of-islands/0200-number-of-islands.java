@@ -3,32 +3,30 @@ class Solution {
     public int numIslands(char[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
-        int cnt = 0;
         boolean[][] vis = new boolean[n][m];
+        int cnt = 0;
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                char ch = grid[i][j];
-                if(ch == '1' && !vis[i][j]){
-                    dfs(i, j, grid, vis);
+                if(grid[i][j]=='1' && !vis[i][j]){
                     cnt++;
+                    dfs(grid, vis, i, j, n, m);
                 }
             }
         }
         return cnt;
     }
-    public void dfs(int i, int j, char[][] grid, boolean[][] vis){
-        int n = grid.length;
-        int m = grid[0].length;
-
+    public void dfs(char[][] grid, boolean[][] vis, int i, int j, int n, int m){
         vis[i][j] = true;
         for(int[] d : dir){
-            int ni = i + d[0];
-            int nj = j + d[1];
-            if(ni<0 || nj<0 || ni>=n || nj>=m || grid[ni][nj] == '0' || vis[ni][nj]){
-                continue;
+            int nr = d[0] + i;
+            int nc = d[1] + j;
+            if(isValid(nr, nc, n, m) && !vis[nr][nc] && grid[nr][nc]=='1'){
+                dfs(grid, vis, nr, nc, n, m);
             }
-            dfs(ni, nj, grid, vis);
         }
+    }
+    public boolean isValid(int i, int j, int n, int m){
+        return i<n && j<m && i>=0 && j>=0;
     }
 }
