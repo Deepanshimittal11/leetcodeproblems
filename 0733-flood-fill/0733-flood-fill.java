@@ -3,6 +3,8 @@ class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
         int original_color = image[sr][sc];
 
+        if(original_color == color) return image;
+
         boolean[][] vis = new boolean[image.length][image[0].length];
 
         dfs(image, sr, sc, original_color, color, vis);
