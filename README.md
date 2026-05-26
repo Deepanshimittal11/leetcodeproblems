@@ -29,6 +29,7 @@
 | [0819-most-common-word](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0819-most-common-word/) | Easy |
 | [0877-stone-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0877-stone-game/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0994-rotting-oranges](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1306-jump-game-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1306-jump-game-iii/) | Medium |
@@ -239,6 +240,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0547-number-of-provinces](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0547-number-of-provinces/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0994-rotting-oranges](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1306-jump-game-iii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -369,6 +371,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0048-rotate-image/) | Medium |
+| [0994-rotting-oranges](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
