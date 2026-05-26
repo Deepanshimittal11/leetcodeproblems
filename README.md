@@ -34,6 +34,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0994-rotting-oranges](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1020-number-of-enclaves/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1306-jump-game-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1306-jump-game-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -212,6 +213,7 @@
 | [0733-flood-fill](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0733-flood-fill/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1020-number-of-enclaves](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1306-jump-game-iii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -250,6 +252,7 @@
 | [0733-flood-fill](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1306-jump-game-iii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -384,11 +387,13 @@
 | [0542-01-matrix](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1020-number-of-enclaves/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
