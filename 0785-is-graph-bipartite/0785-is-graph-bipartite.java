@@ -1,28 +1,39 @@
+// class Node{
+//     int node, color;
+//     Node(int node, int color){
+//         this.node = node;
+//         this.color = color;
+//     }
+// }
 class Solution {
     public boolean isBipartite(int[][] graph) {
-        int n = graph.length;
+        int v = graph.length;
+        
+        int[] vis = new int[v];
+        for(int i=0;i<v;i++){
+            vis[i] = -1; //initially each node is covered with -1.
+        }
 
-        //just like a visited arr we'll make color arr and mark every color -1 initially;
-        int[] color = new int[n];
-        Arrays.fill(color, -1);
+        for(int i=0;i<v;i++){
+            if(vis[i]==-1){
+                if(bfs(graph, vis, i, v) == false) return false;
+            }
+        }
+        return true;
+    }
+    public boolean bfs(int[][] graph, int[] vis, int i, int v){
+        Queue<Integer> q = new LinkedList<>();
+        q.offer(i);
+        vis[i] = 0; //first node is coloured with 0.
 
-        for(int i=0;i<n;i++){
-            if(color[i] == -1){
-                Queue<Integer> q = new LinkedList<>();
-                q.offer(i);
-                color[i] = 0; //fill color 0;
-                while(!q.isEmpty()){
-                    int node = q.poll();
-                    for(int neigh : graph[node]){
-                        if(color[neigh] == -1){
-                            //it means it is not coloured yet
-                            color[neigh] = 1 - color[node];//opposite to the color of node like if node coloured with 1 then neigh will be 0 and vice-versa.
-                            q.offer(neigh);
-                        }else if(color[neigh]==color[node]){
-                            return false;
-                        }
-                    }
+        while(!q.isEmpty()){
+            int node = q.poll();
+            for(int adj : graph[node]){
+                if(vis[adj]==-1){
+                    vis[adj] = 1 - vis[node];
+                    q.offer(adj);
                 }
+                else if(vis[adj] == vis[node]) return false;
             }
         }
         return true;
