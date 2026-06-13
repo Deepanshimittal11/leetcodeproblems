@@ -19,6 +19,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0130-surrounded-regions](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0130-surrounded-regions/) | Medium |
@@ -121,6 +122,7 @@
 | [0031-next-permutation](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0148-sort-list/) | Medium |
@@ -319,6 +321,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0242-valid-anagram/) | Easy |
