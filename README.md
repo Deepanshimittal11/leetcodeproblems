@@ -50,6 +50,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,6 +379,7 @@
 | [0877-stone-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -414,6 +417,7 @@
 | [0733-flood-fill](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1020-number-of-enclaves/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
