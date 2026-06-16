@@ -23,6 +23,7 @@
 | [0118-pascals-triangle](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0130-surrounded-regions](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0130-surrounded-regions/) | Medium |
+| [0169-majority-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0216-combination-sum-iii/) | Medium |
@@ -146,6 +147,7 @@
 | [0141-linked-list-cycle](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0409-longest-palindrome/) | Easy |
@@ -186,6 +188,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0819-most-common-word](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0819-most-common-word/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -330,6 +333,7 @@
 | [0075-sort-colors](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -345,6 +349,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
