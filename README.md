@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -125,6 +126,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0031-next-permutation/) | Medium |
@@ -335,6 +337,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0075-sort-colors/) | Medium |
