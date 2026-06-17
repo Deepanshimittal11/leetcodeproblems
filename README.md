@@ -24,6 +24,7 @@
 | [0088-merge-sorted-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0130-surrounded-regions/) | Medium |
 | [0169-majority-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0200-number-of-islands/) | Medium |
@@ -149,6 +150,7 @@
 | [0001-two-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -440,6 +442,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0547-number-of-provinces/) | Medium |
