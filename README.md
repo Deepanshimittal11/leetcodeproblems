@@ -101,6 +101,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0072-edit-distance/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0205-isomorphic-strings/) | Easy |
@@ -300,6 +301,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
