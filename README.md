@@ -182,6 +182,7 @@
 | [0053-maximum-subarray](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0072-edit-distance/) | Medium |
 | [0118-pascals-triangle](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -404,6 +405,7 @@
 | [0048-rotate-image](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0396-rotate-function](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0788-rotated-digits/) | Medium |
@@ -472,4 +474,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0062-unique-paths/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
