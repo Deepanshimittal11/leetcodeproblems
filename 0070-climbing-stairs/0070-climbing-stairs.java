@@ -1,25 +1,17 @@
 class Solution {
     public int climbStairs(int n) {
-        // this solution is done through recursion b/c the contraints are low.
-        // int prev1 = 1;
-        // int prev2 = 1;
-        // int curr = 0;
-        // for(int i=2;i<=n;i++){
-        //     curr = prev1+prev2;
-        //     prev1 = prev2;
-        //     prev2 = curr;
-        // }
-        // return prev2;
-
-        //we can do this with DP:
-        if(n==1) return 1;
-        if(n==2) return 2;
         int[] dp = new int[n+1];
-        dp[1] = 1;
-        dp[2] = 2;
-        for(int i=3;i<=n;i++){
-            dp[i] = dp[i-1]+dp[i-2];
-        }
-        return dp[n];
+        // for(int i=0;i<=n;i++){
+        //     dp[i] = -1;
+        // }
+        Arrays.fill(dp, -1);
+        return solve(dp, n);
+    }
+    public int solve(int[] dp, int n){
+        if(n==0 || n==1) return 1;
+        if(n<0) return 0;
+        if(dp[n] != -1) return dp[n];
+
+        return dp[n] = solve(dp, n-1) + solve(dp, n-2);
     }
 }
