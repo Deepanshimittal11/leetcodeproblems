@@ -480,4 +480,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0070-climbing-stairs/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
