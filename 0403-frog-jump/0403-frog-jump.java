@@ -1,23 +1,32 @@
 class Solution {
+    int n;
+    HashMap<Integer, Integer> mpp;
+    Boolean[][] dp = new Boolean[2001][2001];
+
     public boolean canCross(int[] stones) {
-        int n = stones.length;
-        Map<Integer, Set<Integer>> dp = new HashMap<>();
+        n = stones.length;
+        mpp = new HashMap<>();
+        if(stones[1] != 1) return false;
 
-        for(int stone : stones){
-            dp.put(stone, new HashSet<>());
+        for(int i=0;i<n;i++){
+            mpp.put(stones[i], i);
         }
+        return solve(stones, 0, 0);
+    }
+    public boolean solve(int[] stones, int curr_ind, int prevjump){
+        if(curr_ind == n-1) return true;
+        if(dp[curr_ind][prevjump] != null) return dp[curr_ind][prevjump];
 
-        dp.get(0).add(0);
+        boolean res = false;
 
-        for(int stone : stones){
-            for(int jump : dp.get(stone)){
-                for(int i=jump-1;i<=jump+1;i++){
-                    if(i>0 && dp.containsKey(stone+i)){
-                        dp.get(stone+i).add(i);
-                    }
+        for(int jump = prevjump-1; jump<=prevjump+1; jump++){
+            if(jump>0){
+                int next_stones = stones[curr_ind] + jump;
+                if(mpp.containsKey(next_stones)){
+                    res = res || solve(stones, mpp.get(next_stones), jump);
                 }
             }
         }
-        return !dp.get(stones[n-1]).isEmpty();
+        return dp[curr_ind][prevjump] = res;
     }
 }
