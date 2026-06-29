@@ -35,6 +35,7 @@
 | [0239-sliding-window-maximum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0396-rotate-function](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0396-rotate-function/) | Medium |
+| [0403-frog-jump](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0403-frog-jump/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -188,6 +189,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0396-rotate-function](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0396-rotate-function/) | Medium |
+| [0403-frog-jump](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0403-frog-jump/) | Hard |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0542-01-matrix/) | Medium |
 | [0788-rotated-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0788-rotated-digits/) | Medium |
