@@ -19,6 +19,7 @@
 | [0053-maximum-subarray](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0056-merge-intervals/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0078-subsets/) | Medium |
@@ -185,6 +186,7 @@
 | [0053-maximum-subarray](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0072-edit-distance/) | Medium |
 | [0118-pascals-triangle](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0118-pascals-triangle/) | Easy |
@@ -449,6 +451,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0048-rotate-image/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0130-surrounded-regions](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0200-number-of-islands/) | Medium |
