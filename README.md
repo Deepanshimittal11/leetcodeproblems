@@ -30,6 +30,7 @@
 | [0169-majority-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0200-number-of-islands/) | Medium |
+| [0213-house-robber-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0229-majority-element-ii/) | Medium |
@@ -190,6 +191,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0213-house-robber-ii/) | Medium |
 | [0396-rotate-function](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0403-frog-jump/) | Hard |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
