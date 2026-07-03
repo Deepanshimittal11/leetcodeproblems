@@ -1,43 +1,30 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        // Arrays.sort(nums);
-        // int sum = 0;
-        // for(int i=0;i<nums.length;i++){
-        //     sum += nums[i];
-        // }
-        // int res = 0;
-        // if(sum%2==0) res = sum/2;
-        // else return false;
-        // sum = 0;
-        // int l=0;
-        // for(int i=0;i<nums.length;i++){
-        //     sum += nums[i];
-        //     while(sum>res){
-        //         sum -= nums[l];
-        //         l++;
-        //     }
-        //     if(sum==res) {
-        //         return true;
-        //     }
-        // }
-        // return false;
-
-        //with the help of DP:
         int n = nums.length;
         int sum = 0;
-        for(int num : nums){
-            sum += num;
-        } 
-        if(sum%2!=0) return false;
-        //we have partition the arr in equal parts. So,
-        int target = sum/2;
-        boolean[] dp = new boolean[target+1];
-        dp[0] = true;
-        for(int num : nums){
-            for(int i = target;i>=num;i--){
-                dp[i] = dp[i]||dp[i-num];
-            }
+        for(int i=0;i<n;i++){
+            sum += nums[i];
         }
-        return dp[target];
+        if(sum%2 != 0) return false;
+
+        Boolean[][] dp = new Boolean[n][sum/2+1];
+        for(Boolean[] rows : dp){
+            Arrays.fill(rows, null);
+        }
+        return helper(nums, sum/2, n-1, dp);
+    }
+    public boolean helper(int[] nums, int sum, int ind, Boolean[][] dp){
+        if(sum == 0) return true;
+        if(ind == 0) return nums[0]==sum;
+        if(dp[ind][sum] != null) return dp[ind][sum];
+
+        boolean notTake = helper(nums, sum, ind-1, dp);
+
+        boolean take = false;
+        if(nums[ind] <= sum){
+            take = helper(nums, sum-nums[ind], ind-1, dp);
+        }
+
+        return dp[ind][sum] = (take || notTake);
     }
 }
