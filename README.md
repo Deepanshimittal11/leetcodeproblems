@@ -39,6 +39,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0396-rotate-function](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0403-frog-jump/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -196,6 +197,7 @@
 | [0213-house-robber-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0213-house-robber-ii/) | Medium |
 | [0396-rotate-function](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0403-frog-jump/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0542-01-matrix/) | Medium |
 | [0788-rotated-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0788-rotated-digits/) | Medium |
