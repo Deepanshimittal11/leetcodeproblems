@@ -29,6 +29,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0130-surrounded-regions/) | Medium |
 | [0169-majority-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0213-house-robber-ii/) | Medium |
@@ -153,6 +154,7 @@
 | [0148-sort-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -426,6 +428,7 @@
 | [0050-powx-n](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0189-rotate-array/) | Medium |
 | [0396-rotate-function](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0788-rotated-digits/) | Medium |
