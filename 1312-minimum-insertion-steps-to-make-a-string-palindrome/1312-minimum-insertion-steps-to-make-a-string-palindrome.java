@@ -1,26 +1,26 @@
 class Solution {
     public int minInsertions(String s) {
-        String reverse = new StringBuilder(s).reverse().toString();
-        int n = s.length();
-        int m = reverse.length();
+        int n = s.length()-1;
+        int[][] dp = new int[n+1][n+1];
+        for(int[] rows : dp){
+            Arrays.fill(rows, -1);
+        }
+        return helper(s, 0, n, dp);
+    }
+    public int helper(String s, int l, int r, int[][] dp){
+        int take = 0;
+        int notTake = 0;
+        if(l==r) return 0;
+        if(dp[l][r] != -1) return dp[l][r];
 
-        int[][] t = new int[n+1][m+1];
-        for(int i=0;i<=n;i++){
-            for(int j=0;j<=m;j++){
-                if(i==0 || j==0){
-                    t[i][j] = 0;
-                }
+        if(l < r){
+            if(s.charAt(l) == s.charAt(r)){
+                take = helper(s, l+1, r-1, dp);
+            }
+            else{
+                notTake = 1 + Math.min(helper(s, l+1,r, dp), helper(s, l, r-1, dp));
             }
         }
-        for(int i=1;i<=n;i++){
-            for(int j=1;j<=m;j++){
-                if(s.charAt(i-1)==reverse.charAt(j-1)){
-                    t[i][j] = 1 + t[i-1][j-1];
-                }else{
-                    t[i][j] = Math.max(t[i-1][j], t[i][j-1]);
-                }
-            }
-        }
-        return (s.length()-t[n][m]);
+        return dp[l][r] = take + notTake ;
     }
 }
