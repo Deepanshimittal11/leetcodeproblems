@@ -118,6 +118,7 @@
 | [0409-longest-palindrome](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0796-rotate-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0819-most-common-word/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -206,6 +207,7 @@
 | [0403-frog-jump](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0542-01-matrix/) | Medium |
 | [0788-rotated-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0788-rotated-digits/) | Medium |
