@@ -28,6 +28,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0130-surrounded-regions/) | Medium |
+| [0136-single-number](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0198-house-robber/) | Medium |
@@ -79,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
