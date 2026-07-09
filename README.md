@@ -54,6 +54,7 @@
 | [0735-asteroid-collision](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0739-daily-temperatures/) | Medium |
 | [0819-most-common-word](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0819-most-common-word/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0877-stone-game/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0994-rotting-oranges](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0994-rotting-oranges/) | Medium |
@@ -89,6 +90,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
