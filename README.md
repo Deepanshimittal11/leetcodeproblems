@@ -88,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0278-first-bad-version](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0704-binary-search/) | Easy |
@@ -399,6 +400,7 @@
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
