@@ -526,4 +526,5 @@
 | [0177-nth-highest-salary](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0177-nth-highest-salary/) | Medium |
 | [0183-customers-who-never-order](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0184-department-highest-salary/) | Medium |
+| [0197-rising-temperature](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
