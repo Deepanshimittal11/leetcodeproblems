@@ -1,10 +1,12 @@
 class Solution {
     public boolean isNStraightHand(int[] hand, int groupSize) {
+        int n = hand.length;
+        if(n%groupSize!=0) return false;
+        HashMap<Integer, Integer> mpp = new HashMap<>();
+
         Arrays.sort(hand);
-        Map<Integer, Integer> mpp = new HashMap<>();
-        if(hand.length % groupSize != 0) return false;
         for(int num : hand){
-            mpp.put(num, mpp.getOrDefault(num,0)+1);            
+            mpp.put(num, mpp.getOrDefault(num, 0)+1);
         }
         for(int num : hand){
             if(!mpp.containsKey(num)) continue;
