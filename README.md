@@ -542,4 +542,5 @@
 | [0184-department-highest-salary](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0197-rising-temperature/) | Easy |
 | [0595-big-countries](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0595-big-countries/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
