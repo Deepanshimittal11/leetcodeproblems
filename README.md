@@ -543,6 +543,7 @@
 | [0197-rising-temperature](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0197-rising-temperature/) | Easy |
 | [0584-find-customer-referee](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0595-big-countries/) | Easy |
+| [0620-not-boring-movies](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1148-article-views-i/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1527-patients-with-a-condition/) | Easy |
