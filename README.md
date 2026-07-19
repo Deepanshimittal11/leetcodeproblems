@@ -549,4 +549,5 @@
 | [1667-fix-names-in-a-table](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
