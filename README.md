@@ -548,6 +548,7 @@
 | [1148-article-views-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1148-article-views-i/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
