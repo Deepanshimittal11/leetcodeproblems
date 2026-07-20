@@ -547,6 +547,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0620-not-boring-movies/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1075-project-employees-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1148-article-views-i/) | Easy |
 | [1251-average-selling-price](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1251-average-selling-price/) | Easy |
