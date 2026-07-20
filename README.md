@@ -546,6 +546,7 @@
 | [0620-not-boring-movies](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1148-article-views-i/) | Easy |
+| [1251-average-selling-price](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1251-average-selling-price/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
