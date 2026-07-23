@@ -561,4 +561,5 @@
 | [1729-find-followers-count](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1873-calculate-special-bonus/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
