@@ -41,6 +41,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -114,6 +115,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1140-stone-game-ii/) | Medium |
