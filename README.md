@@ -424,6 +424,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -478,6 +479,7 @@
 | [1140-stone-game-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
