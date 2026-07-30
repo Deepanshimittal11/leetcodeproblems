@@ -151,6 +151,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2278-percentage-of-letter-in-string/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -258,6 +259,7 @@
 | [0846-hand-of-straights](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0846-hand-of-straights/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -481,6 +483,7 @@
 | [1140-stone-game-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
