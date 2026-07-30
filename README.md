@@ -136,6 +136,7 @@
 | [0394-decode-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0415-add-strings/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -159,6 +160,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0415-add-strings/) | Easy |
 | [0735-asteroid-collision](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0735-asteroid-collision/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -480,6 +482,7 @@
 | [0189-rotate-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0189-rotate-array/) | Medium |
 | [0396-rotate-function](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0415-add-strings/) | Easy |
 | [0486-predict-the-winner](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0877-stone-game/) | Medium |
