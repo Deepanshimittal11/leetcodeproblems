@@ -155,6 +155,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -216,6 +217,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +267,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +277,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0819-most-common-word](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0819-most-common-word/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +437,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
