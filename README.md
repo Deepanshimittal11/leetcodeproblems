@@ -80,6 +80,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3731-find-missing-elements](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +223,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -443,6 +445,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3731-find-missing-elements/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
