@@ -1,30 +1,14 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        // int[] ans = new int[2];
-        int l = 0;
-        int r = numbers.length-1;
-        // time limit :
-        // for(int i=0;i<numbers.length;i++){
-        //     for(int j=i+1;j<numbers.length;j++){
-        //         if(numbers[i]+numbers[j]==target){
-        //             ans[0] = i+1;
-        //             ans[1] = j+1;
-        //             break;
-        //         }
-        //     }
-        // }
-        while(l<r){
-            int sum = numbers[l]+numbers[r];
-            if(sum==target){
-                return new int[]{l+1,r+1};
+        int[] ans = new int[2];
+        HashMap<Integer, Integer> mpp = new HashMap<>();
+        for(int i=0;i<numbers.length;i++){
+            if(mpp.containsKey(target-numbers[i])){
+                ans[0] = mpp.get(target-numbers[i])+1;
+                ans[1] = i+1;
             }
-            else if(sum > target){
-                r--;
-            }
-            else{
-                l++;
-            }
+            mpp.put(numbers[i],i);
         }
-        return new int[]{-1,-1};
+        return ans;
     }
 }
