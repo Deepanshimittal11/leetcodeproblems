@@ -34,6 +34,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0130-surrounded-regions/) | Medium |
 | [0136-single-number](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0136-single-number/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0189-rotate-array/) | Medium |
@@ -100,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -188,6 +190,7 @@
 | [0148-sort-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0287-find-the-duplicate-number/) | Medium |
