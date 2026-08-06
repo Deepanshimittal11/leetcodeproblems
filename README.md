@@ -505,6 +505,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -607,4 +608,8 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
