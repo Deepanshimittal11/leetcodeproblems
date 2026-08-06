@@ -138,6 +138,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0412-fizz-buzz/) | Easy |
@@ -213,6 +214,7 @@
 | [0229-majority-element-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -283,6 +285,7 @@
 | [0169-majority-element](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0819-most-common-word](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0819-most-common-word/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -413,6 +416,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Heap (Priority Queue)
