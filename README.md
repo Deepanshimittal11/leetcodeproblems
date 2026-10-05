@@ -150,6 +150,7 @@
 | [0648-replace-words](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0648-replace-words/) | Medium |
 | [0796-rotate-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0819-most-common-word/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0925-long-pressed-name](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0925-long-pressed-name/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -392,6 +393,7 @@
 | [0503-next-greater-element-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -620,4 +622,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0141-linked-list-cycle/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
