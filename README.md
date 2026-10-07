@@ -91,6 +91,7 @@
 | [0078-subsets](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0113-path-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0216-combination-sum-iii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0409-longest-palindrome/) | Easy |
@@ -371,6 +373,7 @@
 | [0130-surrounded-regions](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0200-number-of-islands/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0547-number-of-provinces/) | Medium |
