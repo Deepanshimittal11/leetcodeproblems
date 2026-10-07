@@ -1,49 +1,46 @@
 class Solution {
-    public Set<String> result = new HashSet<>();
+    Set<String> ans = new HashSet<>();
     public List<String> removeInvalidParentheses(String s) {
-        int left = 0;
-        int right = 0;
-        for(int i=0;i<s.length();i++){
-            char ch = s.charAt(i);
-            if(ch=='(') left++;
+        int open = 0, close = 0;
+        for(char ch : s.toCharArray()){
+            if(ch=='(') open++;
             else if(ch==')'){
-                if(left>0) left--;
-                else right++;
+                if(open>0) open--;
+                else close++;
             }
         }
-        helper(s, 0, left, right, 0, new StringBuilder());
-        return new ArrayList<>(result);
+        StringBuilder str = new StringBuilder();
+        helper(s, str, open, close, 0, 0);
+        return new ArrayList<>(ans);
     }
-    public void helper(String str, int index, int left, int right, int bal, StringBuilder sb){
-        if(left<0 || right<0 || bal<0) return;
-
-        if(index == str.length()){
-            if(left==0 && right==0 && bal==0){
-                result.add(sb.toString());
+    public void helper(String s, StringBuilder str, int open, int close, int ind, int bal){
+        if(ind==s.length()){
+            if(open==0 && close==0 && bal==0){
+                ans.add(str.toString());
             }
             return;
         }
-
-        char ch = str.charAt(index);
-
-        if(ch == '('){
-            helper(str, index+1, left-1, right, bal, sb);
-        }else if(ch == ')'){
-            helper(str, index+1, left, right-1, bal, sb);
-        }
-
-        sb.append(ch);
-
-        if(ch!='(' && ch!=')'){
-            helper(str, index+1, left, right, bal, sb);
-        }
-        else if(ch=='('){
-            helper(str, index+1, left, right, bal+1, sb);
+        char ch = s.charAt(ind);
+        if(ch=='('){
+            //remove
+            if(open>0) helper(s, str, open-1, close, ind+1, bal);
+            str.append(ch);
+            //keep it
+            helper(s, str, open, close, ind+1, bal+1);
+            str.deleteCharAt(str.length()-1);
         }
         else if(ch==')'){
-            helper(str, index+1, left, right, bal-1, sb);
+            if(close>0) helper(s, str, open, close-1, ind+1, bal);
+            if(bal>0){
+                str.append(ch);
+                helper(s, str, open, close, ind+1, bal-1);
+                str.deleteCharAt(str.length()-1);
+            }
         }
-
-        sb.deleteCharAt(sb.length()-1);
+        else{
+            str.append(ch);
+            helper(s, str, open, close, ind+1, bal);
+            str.deleteCharAt(str.length()-1);
+        }
     }
 }
