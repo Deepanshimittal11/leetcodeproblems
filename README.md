@@ -630,4 +630,5 @@
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
