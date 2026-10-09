@@ -160,6 +160,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1446-consecutive-characters](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/2278-percentage-of-letter-in-string/) | Easy |
@@ -279,6 +280,7 @@
 | [0409-longest-palindrome](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0409-longest-palindrome/) | Easy |
 | [0846-hand-of-straights](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0846-hand-of-straights/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -399,6 +401,7 @@
 | [0856-score-of-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -631,4 +634,5 @@
 | [0856-score-of-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deepanshimittal11/leetcodeproblems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 <!---LeetCode Topics End-->
